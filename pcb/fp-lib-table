@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "zzkeeb")(type "KiCad")(uri "${KIPRJMOD}/../lib/zzkeeb/kicad/zzkeeb.pretty")(options "")(descr ""))
+  (lib (name "fingerpunch")(type "KiCad")(uri "${KIPRJMOD}/../lib/zzkeeb/kicad/lib/fingerpunch/kicad/fingerpunch.pretty")(options "")(descr ""))
+)
