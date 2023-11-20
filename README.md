@@ -27,9 +27,10 @@ Anyway it's easy to change keys on the fly with VIAL.
 
 ## Case
 
-⚠️ Currently only a KS-33/27 case exists, as I don't use MX switches. It's easy to modify Fusion360 files to support MX, let me know if you're willing to print and test it, I can help with modifications.
+Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 
-- [Top](./case/top.stl)
+- [KS-33 Top](./case/top.stl)
+- [MX Top](./case/top-mx.stl)
 - [Bottom](./case/bottom.stl)
 - [5-way knob](./case/5way-short.stl) - lower profile knob, if you want higher profile check out ones from [@sadekbaroudi](https://github.com/sadekbaroudi/fingerpunch/tree/master/3d-models/5-way-tactile-switch-knobs)
 
@@ -54,7 +55,8 @@ Anyway it's easy to change keys on the fly with VIAL.
 - 1 [5way switch](https://www.aliexpress.com/item/4000681560472.html)
 - 3 [push buttons](https://www.aliexpress.com/item/32912263133.html) - default height is 4.3mm but you can use 6-8mm if you want easier access to them
 - 31 [RGB LEDs](https://www.aliexpress.com/item/1005003636607308.html)
-- 6mm and 8mm M2 [screws with flat head](https://www.aliexpress.com/item/4001248931159.html) and [nuts](https://www.aliexpress.com/item/1005001412230125.html)
+- [M2 screws with flat head](https://www.aliexpress.com/item/4001248931159.html) - 8mm for MX or 8mm+6mm for KS
+- [M2 nuts](https://www.aliexpress.com/item/1005001412230125.html)
 - [7x1.5 legs](https://www.aliexpress.com/item/1005002995402961.html)
 
 ## Build guide
