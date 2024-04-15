@@ -36,15 +36,15 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 
 ## Gerber files
 
-- [PCB](./pcb/jlcpcb/production_files/GERBER-pcb.zip)
+- [PCB](./pcb/production/pcb.zip)
 
 ![](./images/pcb-top.png)
 ![](./images/pcb-bottom.png)
 
 ## VIAL firmware
 
-- [source code](https://github.com/zzeneg/vial-qmk/tree/feature/gameboard)
-- [pre-compiled file](./firmware/gameboard_vial.uf2)
+- [source code](https://github.com/zzeneg/vial-qmk/tree/feature/zzeneg/keyboards/gameboard)
+- [pre-compiled file](https://github.com/zzeneg/vial-qmk/releases/download/zzeneg/gameboard_vial.uf2)
 
 ## Bill of materials
 
@@ -62,6 +62,10 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 ## Build guide
 
 Please see my [stront guide](https://github.com/zzeneg/stront/blob/main/build-guide/choc/readme.md) for detailed instructions on soldering diodes/LEDs/sockets/MCU.
+
+## Development
+
+For proper KiCad setup install my [zzkeeb](https://github.com/zzeneg/zzkeeb/blob/main/README.md#installation) library
 
 ## Support
 
