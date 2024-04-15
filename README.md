@@ -65,7 +65,7 @@ Please see my [stront guide](https://github.com/zzeneg/stront/blob/main/build-gu
 
 ## Development
 
-For proper KiCad setup install my [zzkeeb](https://github.com/zzeneg/zzkeeb/blob/main/README.md#installation) library
+For proper KiCad setup install my [zzkeeb](https://github.com/zzeneg/zzkeeb/blob/main/README.md#installation) library.
 
 ## Support
 
