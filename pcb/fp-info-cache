@@ -1,4 +1,11 @@
-3414773364177168
+3501881833316731
+Button_Switch_SMD
+Nidec_Copal_CAS-120A
+Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
+SMD slide switch Nidec CAS 120A 
+0
+3
+3
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -756,6 +763,13 @@ Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.c
 7
 3
 Button_Switch_SMD
+SW_SPDT_REED_MSDM-DT
+Littlefuse 14.73x2.54mm, 175VDC 5W, SPDT Reed Switch MSDM-DT, https://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_dt_datasheet.pdf.pdf
+Littlefuse Reed SPDT Switch
+0
+3
+3
+Button_Switch_SMD
 SW_SPST_B3S-1000
 Surface Mount Tactile Switch for High-Density Packaging
 Tactile Switch
@@ -876,15 +890,15 @@ SMD SMT SPST EVQP2
 2
 Button_Switch_SMD
 SW_SPST_EVQP7A
-Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf
-
+Light Touch Switch, 2.2 N, https://www3.panasonic.biz/ac/e_download/control/switch/light-touch/catalog/sw_lt_eng_3529s_side.pdf?f_cd=402906
+tactile switch
 0
 4
 2
 Button_Switch_SMD
 SW_SPST_EVQP7C
-Light Touch Switch
-
+Light Touch Switch, 2.2 N, https://www3.panasonic.biz/ac/e_download/control/switch/light-touch/catalog/sw_lt_eng_3529s_side.pdf?f_cd=402906
+tactile switch
 0
 4
 2
@@ -1491,6 +1505,20 @@ tact sw push 12mm
 4
 2
 Button_Switch_THT
+SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362 6mm tact sw THT
+0
+2
+2
+Button_Switch_THT
+SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250
+tactile push button, 6x3.5mm, https://www.apem.com/idec-apem/en_US/PCB-switches/Tactile-Switches/MJTP-6mm-through-hole/c/MJTP_6mm_through%20hole?page=1
+PHAP3362A 6mm tact sw THT
+0
+2
+2
+Button_Switch_THT
 SW_PUSH_6mm
 https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 tact sw push 6mm
@@ -1806,8 +1834,15 @@ jack stereo TRS
 5
 5
 Connector_Audio
+Jack_3.5mm_Lumberg_1503_02_Horizontal
+TRS 3.5mm, horizontal, Surface Mount (SMT), https://downloads.lumberg.com/datenblaetter/en/1503_02.pdf
+TRS audio jack horizontal
+0
+4
+3
+Connector_Audio
 Jack_3.5mm_Lumberg_1503_07_Horizontal
-TRS 3.5mm, horizontal, through-hole, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
+TRS 3.5mm, horizontal, through-hole, height 5mm, width 6.5mm, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
 TRS audio jack horizontal
 0
 4
@@ -12880,6 +12915,13 @@ Breakaway_Tabs
 0
 0
 fingerpunch
+Castellated_06_2.00mm
+JST PH series connector, S6B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+12
+6
+fingerpunch
 Connector_THT_1x1_2.54
 
 
@@ -13013,6 +13055,20 @@ connector JST PH top entry
 3
 3
 fingerpunch
+Jumper_THT_4_P2.00mm
+Through hole straight socket strip, 1x03, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.00mm single row
+0
+4
+4
+fingerpunch
+Jumper_THT_5_P2.00mm
+Through hole straight socket strip, 1x03, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.00mm single row
+0
+5
+5
+fingerpunch
 Kailh_socket_MX
 MX-style keyswitch with Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
@@ -13062,12 +13118,26 @@ kailh,choc
 12
 6
 fingerpunch
+LED-XL-2020RGBC-WS2812B-C5349955
+
+
+0
+4
+4
+fingerpunch
 LED_D3.0mm
 LED, diameter 3.0mm, 2 pins
 LED diameter 3.0mm 2 pins
 0
 2
 2
+fingerpunch
+LED_WS2812B-2020_PLCC4_2.0x2.0mm
+Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
+LED RGB NeoPixel Nano 2020
+0
+4
+4
 fingerpunch
 LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-reversible
 https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
@@ -13131,6 +13201,13 @@ THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 0
 16
 16
+fingerpunch
+Pad_06_2.00mm
+JST PH series connector, S6B-PH-SM4-TB (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+6
 fingerpunch
 Piezo-KLJ-1625
 
@@ -13243,6 +13320,76 @@ switch SPDT
 0
 5
 3
+fingerpunch
+SolderJumper-4_P1.3mm_Bridged12_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+4
+4
+fingerpunch
+SolderJumper-4_P1.3mm_Bridged123_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+4
+4
+fingerpunch
+SolderJumper-4_P1.3mm_Bridged1234_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+4
+4
+fingerpunch
+SolderJumper-4_P1.3mm_Open_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+4
+4
+fingerpunch
+SolderJumper-5_P1.3mm_Bridged12_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+5
+fingerpunch
+SolderJumper-5_P1.3mm_Bridged123_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+5
+fingerpunch
+SolderJumper-5_P1.3mm_Bridged1234_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+5
+fingerpunch
+SolderJumper-5_P1.3mm_Bridged12345_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+5
+fingerpunch
+SolderJumper-5_P1.3mm_Open_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+5
+fingerpunch
+SolderJumper-13_P1.3mm_Open_RoundedPad
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+20
+13
 fingerpunch
 TRRS-PJ-320A
 
@@ -13426,6 +13573,13 @@ gateron-ks27-reversible-with-sk6812-mini
 12
 6
 fingerpunch
+joystick_analog_xy
+
+
+0
+6
+6
+fingerpunch
 nice_nano
 
 
@@ -13489,26 +13643,19 @@ rp2040-zero-tht-pads-cutout
 33
 33
 fingerpunch
-vik-connector-horizontal
-
-
+sparkfun_9032_joystick_thumb
+THUMB JOYSTICK
+THUMB JOYSTICK
 0
 14
-14
+11
 fingerpunch
-vik-connector-vertical
-
-
+sparkfun_9426_joystick_psp1000
+PSP-1000 THUMB SLIDE JOYSTICK
+PSP-1000 THUMB SLIDE JOYSTICK
 0
-14
-12
-fingerpunch
-vik-keyboard-throughole
-
-
-0
-12
-12
+4
+4
 fingerpunch
 vik-logo-large
 
@@ -13573,12 +13720,75 @@ xiao-tht
 18
 18
 zzkeeb
+Button_5way
+
+
+0
+6
+6
+zzkeeb
+Button_5way-SKRHABE010
+SKRHABE010-1
+Switch
+0
+8
+6
+zzkeeb
+Button_5way-reversible
+
+
+0
+12
+6
+zzkeeb
+Button_5way-reversible-flip3d
+
+
+0
+12
+6
+zzkeeb
+Button_Push-3x6mm
+
+
+0
+2
+2
+zzkeeb
+Button_Push-6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+zzkeeb
+Button_SW_SPST_SKQG_WithoutStem
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, Without stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAEE010.html
+SPST Button Switch
+0
+4
+2
+zzkeeb
 Connector_Display-8pin-SPI-2.0mm
 JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
 connector JST PH top entry
 0
 8
 8
+zzkeeb
+Connector_FFC-12pin-1mm-horizontal
+TE FPC connector, 12 bottom-side contacts, 1.0mm pitch, 1.0mm height, SMT, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=84952&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=84952-4
+te fpc 84952
+0
+14
+13
+zzkeeb
+Connector_FFC-12pin-1mm-vertical
+
+
+0
+14
+12
 zzkeeb
 Connector_HRO-TYPE-C-31-M-12-cutout
 
@@ -13607,6 +13817,20 @@ connector JST PH top entry
 0
 0
 0
+zzkeeb
+Connector_JST-1x12-P1.25mm
+JST GH series connector, SM12B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
+connector JST GH top entry
+0
+14
+13
+zzkeeb
+Connector_JST-1x12-P1.25mm-vertical
+JST GH series connector, BM12B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
+connector JST GH side entry
+0
+14
+13
 zzkeeb
 Connector_TRRS
 
@@ -13762,6 +13986,13 @@ Display_1.69inch
 0
 0
 zzkeeb
+Display_nice-view
+
+
+0
+5
+5
+zzkeeb
 Hole_Breakaway-Tabs
 
 
@@ -13774,6 +14005,13 @@ Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
 0
 0
+0
+zzkeeb
+Hole_M2-TH
+
+
+0
+1
 0
 zzkeeb
 Hole_M2-cutout
@@ -13846,6 +14084,20 @@ Logo_QMK-soldermask
 0
 0
 zzkeeb
+Logo_fusion-dance-left
+
+
+0
+0
+0
+zzkeeb
+Logo_fusion-dance-right
+
+
+0
+0
+0
+zzkeeb
 Logo_pica
 
 
@@ -13881,6 +14133,13 @@ Logo_stront-small
 0
 0
 zzkeeb
+MCU_nice-nano
+
+
+0
+27
+27
+zzkeeb
 MCU_rp2040-zero-cutout
 
 
@@ -13895,12 +14154,12 @@ MCU_rp2040-zero-smd
 23
 23
 zzkeeb
-MCU_rp2040-zero-tht-pads
+MCU_rp2040-zero-tht
 
 
 0
-33
-33
+23
+23
 zzkeeb
 MCU_xiao-ble-smd
 
@@ -14162,6 +14421,20 @@ Switch_MXKS-hotswap-south
 2
 zzkeeb
 Switch_MXKS-hotswap-south-ks3d
+
+
+0
+4
+2
+zzkeeb
+Switch_MXKS-miny-hotswap-south
+
+
+0
+4
+2
+zzkeeb
+Switch_MXKS-miny-hotswap-south-ks3d
 
 
 0
