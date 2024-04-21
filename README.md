@@ -48,7 +48,7 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 
 ## Bill of materials
 
-- PCB
+- [PCB](./pcb/production/pcb.zip)
 - 3D printed parts (top, bottom, knob)
 - Waveshare [RP2040 Zero](https://www.aliexpress.com/item/3256804090654134.html) MCU
 - 39 [SMD SOD-123 1N4148](https://www.aliexpress.com/item/1005002882901030.html) diodes
@@ -62,6 +62,21 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 ## Build guide
 
 Please see my [stront guide](https://github.com/zzeneg/stront/blob/main/build-guide/choc/readme.md) for detailed instructions on soldering diodes/LEDs/sockets/MCU.
+
+## MinY version
+
+> [!CAUTION]
+> This is special version designed for minimal vertical spacing (19x16mm). Regular keycaps will not fit, you must print your own. I prepared several [keycap sets](./case/minY/keycaps/) to choose.
+
+Some notes:
+
+- **top** must be printed with TPU, **plate** with resin or any hard plastic
+- no screws are used, TPU holds the plate and PCB together
+- additional parts:
+  - [push buttons](https://www.aliexpress.com/item/1005006143163980.html) - 10mm height for KS, 15mm for MX
+  - [push button caps](https://www.aliexpress.com/item/1005001584967258.html) - 3.1 inner diameter
+
+![](./images/minY.jpg)
 
 ## Development
 
