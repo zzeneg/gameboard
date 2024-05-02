@@ -498,6 +498,10 @@
       {
         "netclass": "POWER",
         "pattern": "\\+5V|GND"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "BAT"
       }
     ]
   },
