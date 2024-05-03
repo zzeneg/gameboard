@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -76,7 +76,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "pcb-miny.kicad_prl",
+    "filename": "pcb-miny-rounded.kicad_prl",
     "version": 3
   },
   "project": {
