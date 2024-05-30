@@ -8963,7 +8963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zzkeeb:Hole_M2-TH"
+		(property "Footprint" "zzkeeb:Hole_M2"
 			(at 161.29 36.83 0)
 			(effects
 				(font
@@ -10297,13 +10297,12 @@
 				)
 			)
 		)
-		(property "Value" "5V"
-			(at 201.93 233.68 0)
+		(property "Value" "VIK 5V"
+			(at 201.93 232.918 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
@@ -11459,7 +11458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zzkeeb:Hole_M2-TH"
+		(property "Footprint" "zzkeeb:Hole_M2"
 			(at 161.29 24.13 0)
 			(effects
 				(font
@@ -13221,6 +13220,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 161.29 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77146059-7328-4919-b39b-754f9e456377")
+		(property "Reference" "H7"
+			(at 163.83 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 163.83 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "zzkeeb:Hole_M2"
+			(at 161.29 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pcb-miny"
+				(path "/5689f24b-6eca-4ca4-9c6c-dd56b6ced5a9"
+					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "zzkeeb:Diode")
 		(at 124.46 143.51 0)
 		(unit 1)
@@ -13815,7 +13878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zzkeeb:Hole_M2-TH"
+		(property "Footprint" "zzkeeb:Hole_M2"
 			(at 161.29 30.48 0)
 			(effects
 				(font
@@ -15087,7 +15150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zzkeeb:Hole_M2-TH"
+		(property "Footprint" "zzkeeb:Hole_M2"
 			(at 161.29 49.53 0)
 			(effects
 				(font
@@ -15535,18 +15598,17 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a0b0a847-bdff-47e3-b225-0aadac99db39")
 		(property "Reference" "JP4"
-			(at 198.12 236.22 0)
+			(at 198.12 239.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 198.12 238.76 0)
+		(property "Value" "VIK LED"
+			(at 198.12 245.364 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16433,7 +16495,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zzkeeb:Hole_M2-TH"
+		(property "Footprint" "zzkeeb:Hole_M2"
 			(at 161.29 43.18 0)
 			(effects
 				(font
@@ -19931,6 +19993,70 @@
 			(project "pcb-miny"
 				(path "/5689f24b-6eca-4ca4-9c6c-dd56b6ced5a9"
 					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 161.29 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5f4529e-a0ad-409d-a6cf-891ab7df8255")
+		(property "Reference" "H6"
+			(at 163.83 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 163.83 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "zzkeeb:Hole_M2"
+			(at 161.29 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pcb-miny"
+				(path "/5689f24b-6eca-4ca4-9c6c-dd56b6ced5a9"
+					(reference "H6")
 					(unit 1)
 				)
 			)
