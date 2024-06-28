@@ -63,18 +63,22 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 
 Please see my [stront guide](https://github.com/zzeneg/stront/blob/main/build-guide/choc/readme.md) for detailed instructions on soldering diodes/LEDs/sockets/MCU.
 
-## MinY version
+## MinY version (V2 - ProMicro-compatible, VIK support)
 
 > [!CAUTION]
 > This is special version designed for minimal vertical spacing (19x16mm). Regular keycaps will not fit, you must print your own. I prepared several [keycap sets](./case/minY/keycaps/) to choose.
+>
+> It uses Pro Micro format MCU so it could be wireless (not tested).
+>
+> I did not make/test case for MX switches - you can modify it in Fusion.
 
-Some notes:
+Updated BOM:
 
-- **top** must be printed with TPU, **plate** with resin or any hard plastic
-- no screws are used, TPU holds the plate and PCB together
-- additional parts:
-  - [push buttons](https://www.aliexpress.com/item/1005006143163980.html) - 10mm height for KS, 15mm for MX
-  - [push button caps](https://www.aliexpress.com/item/1005001584967258.html) - 3.1 inner diameter
+- [MCU](https://www.aliexpress.com/item/1005006130019224.html) - ProMicro pinout, bottom pins are needed for I2C and LED only
+- [1.47" bare LCD](https://www.aliexpress.com/item/1005004833011998.html) with [VIK adapter](https://github.com/zzeneg/vik-display-adapter) (**PCB <= 1.2mm is recommended**)
+- M2 [heatset inserts](https://www.aliexpress.com/item/1005004624377733.html) - 4mm length, 3.2mm diameter for resin case or 3.5mm for Nylon/PLA
+- [push buttons](https://www.aliexpress.com/item/1005006143163980.html) - 10mm height for KS, 15mm for MX
+- [push button caps](https://www.aliexpress.com/item/1005001584967258.html) - 3.1 inner diameter
 
 ![](./images/minY.jpg)
 
