@@ -44,7 +44,8 @@ Tested on JLCPCB resin printing, it may be a bit tight for FDM.
 ## VIAL firmware
 
 - [source code](https://github.com/zzeneg/vial-qmk/tree/feature/zzeneg/keyboards/gameboard)
-- [pre-compiled file](https://github.com/zzeneg/vial-qmk/releases/download/zzeneg/gameboard_vial.uf2)
+- [pre-compiled V1](https://github.com/zzeneg/vial-qmk/releases/download/zzeneg/gameboard_v1_vial.uf2)
+- [pre-compiled V2 (with display)](https://github.com/zzeneg/vial-qmk/releases/download/zzeneg/gameboard_v2_vial.uf2)
 
 ## Bill of materials
 
