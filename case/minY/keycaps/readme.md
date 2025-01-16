@@ -2,13 +2,11 @@
 
 Keycaps with minimal vertical spacing (19x16mm), sprued and adjusted to number of keys on Gameboard.
 
-## DES
+## DES minY minZ
 
-Tested in MJF Nylon with KS-33, Tecsee Medium and regular MX switches.
+Generated from [my fork](https://github.com/zzeneg/PseudoMakeMeKeyCapProfiles?tab=readme-ov-file#update-from-zzeneg).
 
-## DES MinZ
-
-Tested in MJF Nylon with KS-33 and Tecsee Medium. **NOT** compatible with regular MX switches.
+Tested in MJF Nylon with KS-33, ChocV2, Tecsee Medium and regular MX switches.
 
 ## CMY
 
